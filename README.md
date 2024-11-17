@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - João 👾</h1>
+<h1 align="center">Preview Product - João 👾</h1>
 
 ![Imagem do projeto finalizado](preview-template.png)
 
