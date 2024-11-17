@@ -1,0 +1,25 @@
+@media (max-width: 425px){
+    .produtos .produto{
+        display: block;
+        padding: 0;
+        margin: 10px;
+        height: 900px;
+        width: 450px;
+    }
+
+    .produtos .produto .imagem-produto{
+        background-image: none;
+        background: url("../img/image-product-mobile.jpg") center center no-repeat;
+        background-size: cover;
+        width: 450px;
+        height: 480px;
+        border-top-left-radius: 40px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 0;
+        margin-bottom: 20px;
+    }
+
+    .produtos .produto .info-produtos{
+        margin: 0 30px;
+    }
+}

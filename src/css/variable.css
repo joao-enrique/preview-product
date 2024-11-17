@@ -1,0 +1,13 @@
+:root{
+    --primary-color-dark: hsl(158, 36%, 37%);
+    --primary-color: hsl(30, 38%, 92%);
+
+    --neutral-dark: hsl(212, 21%, 14%);
+    --neutral-blue: hsl(228, 12%, 48%);
+    --white-color: hsl(0, 0%, 100%);
+
+    --body-font-size: 14px;
+
+    --fw-5: 500;
+    --fw-7: 700;
+}
