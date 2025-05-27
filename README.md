@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](preview-template.png)
 
-<h4 align="center"><a href="https://jedev1.github.io/preview-product/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://joao-enrique.github.io/preview-product/">Confira o projeto aqui</a></h4>
 
 ---
 
